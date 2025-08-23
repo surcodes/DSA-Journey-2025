@@ -11,6 +11,3 @@ Goal: Build strong problem-solving skills before my birthday (12th Nov).
 
 ## ✅ Weekly Logs
 ### Week 1 (Aug 22–28)
-- ✅ Solved 5 Array problems
-- ✅ Practiced String manipulation basics
-- ✅ Revised Time Complexity & Big-O
