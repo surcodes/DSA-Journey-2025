@@ -5,71 +5,27 @@ Goal: Build strong problem-solving skills before my birthday (12th Nov).
 
 📅 Roadmap
 
-Sept:
+Sept: C++ basics, Arrays, Strings, Recursion basics, Sorting, Searching, Linked Lists
 
-C++ basics
+Oct: Stacks, Queues, Trees
 
-Arrays
-
-Strings
-
-Recursion basics
-
-Sorting
-
-Searching
-
-Linked Lists
-
-Oct:
-
-Stacks
-
-Queues
-
-Trees
-
-Nov:
-
-Graphs
-
-Final Revision
+Nov: Graphs + Final Revision
 
 📅 Weekly Logs
 Week 3 (Sept 08 – Sept 14)
 
 Restarted my DSA journey.
 
-Learned C++ basics:
+Began with C++ basics: input/output, variables, conditionals.
 
-Input/Output
+Wrote small programs (sum of numbers, simple patterns).
 
-Variables
-
-Conditionals
-
-Wrote small programs:
-
-Sum of numbers
-
-Simple patterns
-
-Built foundation to move towards arrays next week.
+Set the foundation to move towards arrays next week.
 
 🎯 Next Steps
 
-Practice:
+Practice loops, arrays, and functions in C++.
 
-Loops
+Start solving beginner-level problems (like array reversal, max/min element).
 
-Arrays
-
-Functions in C++
-
-Solve beginner-level problems:
-
-Array reversal
-
-Max/Min element in array
-
-Focus on consistency → even 1 problem/day counts.
+Build consistency → even 1 problem a day counts.
