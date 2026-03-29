@@ -1,31 +1,45 @@
-🧩 DSA Journey 2025
+# 🧩 DSA Journey 2026
 
-Tracking my 100-day DSA journey (Sept–Nov 2025) 🚀
-Goal: Build strong problem-solving skills before my birthday (12th Nov).
+Building consistency and strong problem-solving skills.
 
-📅 Roadmap
+## 🎯 Goal
 
-Sept: C++ basics, Arrays, Strings, Recursion basics, Sorting, Searching, Linked Lists
+* Master core DSA concepts
+* Solve ~120+ problems
+* Stay consistent (no zero days)
 
-Oct: Stacks, Queues, Trees
+## 📅 Timeline
 
-Nov: Graphs + Final Revision
+**Start:** 10 April 2026
+**End:** 31 July 2026
 
-📅 Weekly Logs
-Week 3 (Sept 08 – Sept 14)
+## 🛣️ Roadmap
 
-Restarted my DSA journey.
+**Phase 1 (Apr 10 – May 10)**
+Arrays, Strings, Recursion (basics), Searching & Sorting
 
-Began with C++ basics: input/output, variables, conditionals.
+**Phase 2 (May 11 – Jun 20)**
+Linked List, Stack, Queue, Sliding Window
 
-Wrote small programs (sum of numbers, simple patterns).
+**Phase 3 (Jun 21 – Jul 15)**
+Trees, Intro to Graphs
 
-Set the foundation to move towards arrays next week.
+**Phase 4 (Jul 16 – Jul 31)**
+Revision + Timed Practice
 
-🎯 Next Steps
+## ⚙️ Rules
 
-Practice loops, arrays, and functions in C++.
+* 1–3 problems daily
+* Focus on understanding > quantity
+* Revise regularly
+* No zero days
 
-Start solving beginner-level problems (like array reversal, max/min element).
+## 📅 Weekly Logs
 
-Build consistency → even 1 problem a day counts.
+### Week 1 (Apr 10 – Apr 16)
+
+* Topics:
+* Problems Solved:
+* Notes:
+
+---
