@@ -38,8 +38,6 @@ Revision + Timed Practice
 
 ### Week 1 (Apr 10 – Apr 16)
 
-* Topics: Started Arryas (30th March)
-* Problems Solved:
-* Notes:
+* Topics: Started Arryas 
 
 ---
